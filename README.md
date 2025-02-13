@@ -1,3 +1,8 @@
 # MigrateToAzure
-The facilitation of attachments from a Marval database to Azure
+Used to move attachments from Marval database storage to Azure storage
+
+
+# MigrateFromAzure
+Used to move attachments from Azure to a Marval Database
+
 
